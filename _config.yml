@@ -1,0 +1,7 @@
+title: My Affiliate Blog
+description: A simple affiliate blog with product reviews
+baseurl: "/my-affiliate-blog"
+url: "https://pigig-gk.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
