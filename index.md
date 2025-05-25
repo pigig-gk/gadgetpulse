@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome to PiGig Affiliate Blog
+title: Welcome to GadgetPulse
 ---
 
-Welcome to the PiGig Affiliate Blog! 🎉
+Welcome to GadgetPulse! 🎉
 
 We test useful, affordable tech gadgets. Start with our latest post:
 
