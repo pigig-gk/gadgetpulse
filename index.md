@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Welcome to GadgetPulse
 ---
 
 Welcome to GadgetPulse! 🎉
