@@ -1,27 +1,29 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <div class="site-header">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <nav>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/usb-fans.html' | relative_url }}">USB Fans</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-<div class="home">
-  <h1 class="page-heading">Welcome to GadgetPulse</h1>
-  <p>Your trusted source for smart gadget reviews and honest tech picks. We research so you don’t have to.</p>
+  <main>
+    {{ content }}
+  </main>
 
-  <nav>
-    <ul>
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/usb-fans/' | relative_url }}">Top USB Fans</a></li>
-    </ul>
-  </nav>
-
-  <hr />
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+  </footer>
+</body>
+</html>
