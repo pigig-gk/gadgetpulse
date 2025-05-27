@@ -1,17 +1,9 @@
 ---
 layout: home
-title: GadgetPulse
+title: Welcome to GadgetPulse
+permalink: /
 ---
 
-# Welcome to GadgetPulse 👋
+Welcome to **GadgetPulse**, your trusted guide for discovering top tech gadgets. Whether you're a digital nomad, a DIY enthusiast, or just love smart gear, we've got curated lists and honest reviews for your next great find.
 
-Your trusted source for reviews and recommendations on the latest **portable tech gadgets** of 2025.
-
-Whether you're looking for the best **mini USB fans**, power banks, compact speakers, or travel-friendly accessories, we've got you covered with curated lists and hands-on insights.
-
-🛠️ **How to explore:**
-- Use the **top menu** to navigate product categories
-- Click on any list to view **detailed reviews** with links
-- More updates and categories coming soon – stay tuned!
-
----
+🌀 Check out our latest guide: [Top 5 Mini USB Fans for Portable Cooling in 2025](/gadgetpulse/_pages/usb-fans)
