@@ -19,7 +19,7 @@ This foldable handheld fan is a true travel essential. It folds down compactly t
 - **Battery Life:** Lasts up to 10 hours on a single USB-C charge
 - **Noise Level:** Whisper-quiet, ideal for office or public spaces
 
-🛒 [Check Price & Details](https://amzn.to/4k4BQ4e)
+ [Check Price & Details](https://amzn.to/4k4BQ4e)
 
 ---
 
@@ -33,7 +33,7 @@ If you're looking for a desktop solution with adjustability, the ATEngeus fan is
 - **Adjustability:** Full tilt and rotation
 - **Power:** USB-powered for laptops, power banks, or wall plugs
 
-🛒 [Check Price & Details](https://amzn.to/4mx1IaF)
+ [Check Price & Details](https://amzn.to/4mx1IaF)
 
 ---
 
@@ -47,7 +47,7 @@ This SWEETFULL fan is the quietest of the bunch — making it perfect for bedroo
 - **Efficiency:** Low energy draw, safe for laptops and power banks
 - **Design:** Minimalist look with a stable base and compact size
 
-🛒 [Check Price & Details](https://amzn.to/43d8Lh5)
+ [Check Price & Details](https://amzn.to/43d8Lh5)
 
 ---
 
@@ -61,7 +61,7 @@ This dual-head USB fan is a game-changer for hot rooms, small RVs, or shared off
 - **Flexibility:** Gooseneck design bends in all directions
 - **Versatility:** Great for desktops, laptops, and car use
 
-🛒 [Check Price & Details](https://amzn.to/45qlqi4)
+ [Check Price & Details](https://amzn.to/45qlqi4)
 
 ---
 
@@ -75,7 +75,7 @@ The Ocoopa is built for performance. This is a robust fan with a **rotating head
 - **Rotation:** Adjustable head with wide coverage
 - **Battery:** Long-lasting and rechargeable — ideal for outdoor use
 
-🛒 [Check Price & Details](https://amzn.to/4mCTbmE)
+ [Check Price & Details](https://amzn.to/4mCTbmE)
 
 ---
 
