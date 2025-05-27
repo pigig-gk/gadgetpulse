@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Top 5 Mini USB Fans for Portable Cooling in 2025"
+title: "Top 5 Mini USB Fans in 2025"
 date: 2025-05-26
-categories: usb-fans gadgets
+categories: usb-fans
 ---
 
 When the heat hits, nothing beats a reliable mini USB fan. Whether you're traveling, working, or just chilling outdoors, a compact fan can make a big difference in your comfort. We've tested and reviewed the top-rated models available on Amazon.de to bring you the **best portable USB fans for 2025** — focused on cooling power, build quality, portability, and battery life.
