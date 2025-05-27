@@ -10,3 +10,7 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
+
+header_pages:
+  - index.md
+  - _pages/usb-fans.md
