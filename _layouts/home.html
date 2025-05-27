@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Welcome to <strong>GadgetPulse</strong></h1>
+  <p>Your source for expert tech gadget reviews, curated picks, and recommendations to help you stay ahead of the curve.</p>
+
+  <hr>
+
+  <h2>Latest Posts</h2>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%B %d, %Y" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+        <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
