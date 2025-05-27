@@ -14,11 +14,3 @@ markdown: kramdown
 header_pages:
   - index.md
   - _pages/usb-fans.md
-
-  defaults:
-  - scope:
-      path: ""
-    values:
-      layout: home
-
-
